@@ -5,7 +5,8 @@
         "SRP/VERSION_RESPECTANT_LE_PRINCIPE",
         "LSP",
         "ISP",
-        "DIP"
+        "DIP",
+        "SRP_Payments"
     ],
     "java.project.referencedLibraries": []
 }
