@@ -9,5 +9,12 @@ public class AreaCalculator {
         }
         throw new IllegalArgumentException("Unsupported shape: " + shape);
     }
+     public void prinToscreen(Object shape){
+        if (shape instanceof Rectangle) {
+            System.out.println("Area of Rectangle is "+ this.calculateArea(shape));
+        }else if (shape instanceof Circle) {
+            System.out.println("Area of Circle is "+ this.calculateArea(shape));
+        }
+     }
 
 }
