@@ -11,6 +11,10 @@ public class Mainlsp {
         rectangle1.setWidth(5);
         rectangle1.setHeight(4);
         System.out.println("Aire du carré (via Rectangle) : " + rectangle1.getArea()); 
+        Bird aigle = new Eagle();
+        aigle.fly();
+        Bird poulet = new Poule();
+        poulet.fly();
     }
 
 }
