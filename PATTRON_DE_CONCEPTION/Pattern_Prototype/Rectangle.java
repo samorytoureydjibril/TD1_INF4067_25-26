@@ -1,4 +1,4 @@
-package PATTRON_DE_CONCEPTION.Pattern_Prototype;
+package Pattern_Prototype;
 
 public class Rectangle extends Figure {
 

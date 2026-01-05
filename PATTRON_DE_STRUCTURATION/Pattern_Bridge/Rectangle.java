@@ -1,4 +1,4 @@
-package PATTRON_DE_STRUCTURATION.Pattern_Bridge;
+package Pattern_Bridge;
 
 public class Rectangle extends Forme {
 

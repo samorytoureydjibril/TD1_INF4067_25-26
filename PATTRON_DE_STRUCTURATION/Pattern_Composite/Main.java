@@ -1,4 +1,4 @@
-package PATTRON_DE_STRUCTURATION.Pattern_Composite;
+package Pattern_Composite;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package PATTRON_DE_CONCEPTION.Pattern_Factory_I;
+package Pattern_Factory_I;
 
 public abstract class ProduitA {
 

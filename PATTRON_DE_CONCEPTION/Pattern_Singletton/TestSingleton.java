@@ -1,4 +1,4 @@
-package PATTRON_DE_CONCEPTION.Pattern_Singletton;
+package Pattern_Singletton;
 
 public class TestSingleton {
    public static void main(String[] args) {

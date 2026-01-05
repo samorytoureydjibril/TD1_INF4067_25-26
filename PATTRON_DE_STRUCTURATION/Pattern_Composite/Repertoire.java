@@ -1,4 +1,4 @@
-package PATTRON_DE_STRUCTURATION.Pattern_Composite;
+package Pattern_Composite;
 
 import java.util.ArrayList;
 import java.util.List;

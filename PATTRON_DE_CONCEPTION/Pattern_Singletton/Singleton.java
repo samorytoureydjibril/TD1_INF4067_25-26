@@ -1,4 +1,4 @@
-package PATTRON_DE_CONCEPTION.Pattern_Singletton;
+package Pattern_Singletton;
 
 public final class Singleton {
     private static Singleton instance = null;

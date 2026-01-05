@@ -1,4 +1,4 @@
-package PATTRON_DE_CONCEPTION.Pattern_Factory_II;
+package Pattern_Factory_II;
 
 public class ProduitA2_II extends ProduitA_II {
 

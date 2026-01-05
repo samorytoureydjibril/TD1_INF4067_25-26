@@ -1,4 +1,4 @@
-package PATTRON_DE_CONCEPTION.pattern_Builder;
+package pattern_Builder;
 
 public class MonteurPizzaReine extends MonteurPizza {
   

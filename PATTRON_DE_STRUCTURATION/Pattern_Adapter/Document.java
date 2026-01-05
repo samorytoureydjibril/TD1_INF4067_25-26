@@ -1,4 +1,4 @@
-package PATTRON_DE_STRUCTURATION.Pattern_Adapter;
+package Pattern_Adapter;
 
 public interface Document {
    

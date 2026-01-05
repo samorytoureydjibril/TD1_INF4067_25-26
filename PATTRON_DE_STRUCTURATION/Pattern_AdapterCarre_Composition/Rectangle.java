@@ -1,4 +1,4 @@
-package PATTRON_DE_STRUCTURATION.Pattern_AdapterCarre_Composition;
+package Pattern_AdapterCarre_Composition;
 
 public class Rectangle implements MethodeGestionRectangle {
 
