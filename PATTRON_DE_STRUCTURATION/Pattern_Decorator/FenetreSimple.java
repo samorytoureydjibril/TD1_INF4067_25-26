@@ -1,4 +1,4 @@
-package PATTRON_DE_STRUCTURATION.Pattern_Decorator;
+package Pattern_Decorator;
 
 public class FenetreSimple implements Fenetre {
     

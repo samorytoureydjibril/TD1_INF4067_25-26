@@ -8,6 +8,8 @@
         "LSP",
         "ISP",
         "DIP",
+        "PATTRON_DE_CONCEPTION",
+        "PATTRON_DE_STRUCTURATION"
     ],
     "java.project.referencedLibraries": []
 }
